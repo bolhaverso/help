@@ -1,11 +1,33 @@
 # support
 
-## EN_US
+## about en-us
 
-This is a project that we've created just to let people open issues about our Bolhaverse.
+This is a project that we've created just to let people open issues about our Bolhaverse services.
 
-## PT_BR
+Do you need help with a bolha fedinstance?
 
-Esse é um projeto criado apenas para que você possa abrir issues de questões relacionadas ao BolhaVerso!
+Do you need help to reset a password?
 
+Are you blocked and need help?
 
+Please go to the issue page and open an issue for us!
+
+- https://github.com/bolhaverso/help/issues
+
+We'll anwser as fast as we can.
+
+## about en-us
+
+Precisa de ajuda com alguma com alguma ferramenta da bolha?
+
+Problema com senha?
+
+Quer fazer backup da sua conta?
+
+Está bloqueado?
+
+Entra aqui e abre uma issue pra gente, vamos resolver!
+
+- https://github.com/bolhaverso/help/issues
+
+Vamos responder o mais rápido que pudermos.
