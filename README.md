@@ -1,6 +1,5 @@
-# support
 
-## about en-us
+# About Help (en-us)
 
 This is a project that we've created just to let people open issues about our Bolhaverse services.
 
@@ -16,7 +15,7 @@ Please go to the issue page and open an issue for us!
 
 We'll anwser as fast as we can.
 
-## about en-us
+# About Help (pt-br)
 
 Precisa de ajuda com alguma com alguma ferramenta da bolha?
 
