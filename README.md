@@ -9,6 +9,20 @@ Do you need help to reset a password?
 
 Are you blocked and need help?
 
+Did you find a problem in one of our services?
+
+Did you find a strange behavior in one of our services?
+
+Did you find a security issue in one of our services?
+
+Is something down?
+
+Is something slow?
+
+Is something trowing an error?
+
+Do you want to ask for a new service ou a configuration change?
+
 Please go to the issue page and open an issue for us!
 
 - https://github.com/bolhaverso/help/issues
@@ -24,6 +38,18 @@ Problema com senha?
 Quer fazer backup da sua conta?
 
 Está bloqueado?
+
+Você encontrou um problema em um de nossos serviços?
+
+Você encontrou uma falha de segurança em um de nossos serviços?
+
+Algum serviço está fora?
+
+Algum serviço está lento?
+
+Algum serviço está dando erro?
+
+Você deseja pedir um novo serviço ou o ajuste de alguma configuração?
 
 Entra aqui e abre uma issue pra gente, vamos resolver!
 
